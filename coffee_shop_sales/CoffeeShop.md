@@ -8,6 +8,15 @@ The primary objective is to unravel trends, identify key factors influencing sal
 
 ## Dataset
 
+The dataset used for this analysis consists of a CSV file with 3 sheets "orders", "customers", and "products" as it shows.
+
+![Orders raw dataset](ordersraw.png)
+
+
+![Customers raw dataset](customersraw.png)
+
+
+![Products raw dataset](productsraw.png)
 
 
 Raw dataset used in this analysis: [excel-project-coffee-sales](https://github.com/mochen862/excel-project-coffee-sales)
