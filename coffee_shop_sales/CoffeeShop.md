@@ -22,8 +22,13 @@ The dataset used for this analysis consists of a CSV file with 3 sheets "orders"
 Raw dataset used in this analysis: [excel-project-coffee-sales](https://github.com/mochen862/excel-project-coffee-sales)
 
 ## Methodology
-### Data Cleaning
-### Data Consolidation
+### Data Cleaning and Consolidation
+* Create and fill columns Costumer Name, Email, and country using the data on the costumers sheet with the xlookup function.
+* Create and fill columns Coffee Type, Roast Type, Size and Unit Price using the data on the products sheet with index-match functions.
+* Create Sales column and obtain it by multiplying Quantity and Unit Price coulumns to obtain the total sales. 
+* Data formatting
+
 ### Pivot Tables & Pivot Charts
 ## Dashboard
+![Dashboard](Dashboard.png)
 ## Conclusions & Next Steps
