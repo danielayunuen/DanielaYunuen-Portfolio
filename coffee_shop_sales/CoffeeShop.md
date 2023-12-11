@@ -46,5 +46,7 @@ Merge all the charts in a new sheet to create the interactive dashboard.
 
 ![Dashboard](Dashboard.png)
 
+View full project at: 
+
 ## Conclusions & Next Steps
 
