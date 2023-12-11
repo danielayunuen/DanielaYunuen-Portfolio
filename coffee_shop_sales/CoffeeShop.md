@@ -24,11 +24,27 @@ Raw dataset used in this analysis: [excel-project-coffee-sales](https://github.c
 ## Methodology
 ### Data Cleaning and Consolidation
 * Create and fill columns Costumer Name, Email, and country using the data on the costumers sheet with the xlookup function.
+* Usen an IF function to convert "0" into blank spaces in missing values.
 * Create and fill columns Coffee Type, Roast Type, Size and Unit Price using the data on the products sheet with index-match functions.
+* Convert Roast Types and Coffee Types into full names.
 * Create Sales column and obtain it by multiplying Quantity and Unit Price coulumns to obtain the total sales. 
-* Data formatting
+* Date and number formatting
+* Check for duplicates
+* Convert the data into a table to facilitate the creation of pivot tables and pivot charts.
+
+  ![Table](table.png) 
 
 ### Pivot Tables & Pivot Charts
+* Create a pivot table for total sales over the years by month.
+* Create a pivot chart of sales with a timeline and slicers for Roast Type, Size, and Coffee Type.
+* Create a pivot table and chart for Sales by Country.
+* Create a pivot table and chart for top 3 costumers.
+  
 ## Dashboard
+
+Merge all the charts in a new sheet to create the interactive dashboard.
+
 ![Dashboard](Dashboard.png)
+
 ## Conclusions & Next Steps
+
