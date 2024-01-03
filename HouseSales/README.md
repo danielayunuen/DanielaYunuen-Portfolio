@@ -1,6 +1,8 @@
 
 # King County, Washingston House Sales Interactive Dashboard #
 
+ ## [Project Link in Tableau Public](https://public.tableau.com/app/profile/daniela.yunuen/viz/HouseSales_17043093142530/KingCountyHouseSales) ##
+
 ## About ##
 
 The "King County Housing Insights" Dashboard represents a sophisticated data analysis project meticulously constructed with the advanced tools provided by Tableau. This initiative involves an exhaustive exploration of real estate dynamics, with a specific focus on King County in the United States. The dataset encompasses information spanning from May 2014 to May 2015, providing a comprehensive overview of houses sold across various cities worldwide.
@@ -25,5 +27,8 @@ This project leverages Tableau's data visualization capabilities to transform ra
 
 ## Results: ##
 The interactive dashboard presented here encapsulates the essence of the analysis. Users can navigate through different facets of the real estate market, gaining valuable insights into the factors influencing property sales in King County. Whether you are interested in the temporal evolution of sales, the correlation between house features and pricing, or the spatial distribution of real estate activity, this dashboard provides a user-friendly platform for exploration.
+
+
+![Dashboard](KingCountyHouseSales.png)
 
 Feel free to interact with the visualizations and uncover the story that the data tells. Your feedback is invaluable as we strive to refine and enhance the depth of analysis in this ongoing project.
