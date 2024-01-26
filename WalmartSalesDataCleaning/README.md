@@ -30,3 +30,5 @@ This dataset contains transactions of 45 Walmart stores across three different c
 |gross_margin_percentage|Gross margin percentage|FLOAT(11, 9)|
 |gross_income|Gross Income|DECIMAL(10, 2)|
 |rating|Rating|FLOAT(2, 1)|
+
+
