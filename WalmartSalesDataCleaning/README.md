@@ -31,4 +31,17 @@ This dataset contains transactions of 45 Walmart stores across three different c
 |gross_income|Gross Income|DECIMAL(10, 2)|
 |rating|Rating|FLOAT(2, 1)|
 
+## Analysis Schema
+
+* **Product Analysis**
+  
+This analysis aims to describe sales patterns of products, identify top-performing items that generate higher profits, and enhance customer satisfaction. Additionally, it will assist in pinpointing products or branches that require improvement.
+
+* **Sales Analysis**
+  
+With sales data, we can analyze variations in sales across different dates in the year, identify which city yields higher profits, and assess the effectiveness of sales strategies. This information helps detect whether the sales strategies are working well or need improvement.
+  
+* **Costumer Analysis**
+  
+Understanding who the customers are is also important. Through this analysis, it will be possible to identify which type of customers make more purchases, if they have any tendency to buy on specific dates of the year, week, or particular times of the day, as well as their preferred payment methods.
 
