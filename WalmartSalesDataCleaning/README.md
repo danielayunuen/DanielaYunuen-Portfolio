@@ -5,6 +5,8 @@ This project aims to explore Walmart sales data to uncover trends in the sales p
 
 Dataset retrieved from: [Walmart Recruiting - Store Sales Forecasting](https://www.kaggle.com/c/walmart-recruiting-store-sales-forecasting)
 
+Full SQL Code at:[WalmartSales.sql](Portfolio/WalmartSalesDataCleaning/WalmartSales.sql)
+
 ## Objective
 The purpose of this project is to acquire knowledge about the behavior of sales data in order to recognize patterns and trends, and to optimize and improve Walmart's sales.
 
