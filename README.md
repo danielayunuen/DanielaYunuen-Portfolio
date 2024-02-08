@@ -23,15 +23,11 @@ In this project, I used Python to analyze data related to movies. I performed da
 
 ## Repository Structure
 
-[Coffee Shop Sales](https://github.com/danielayunuen/Portfolio/blob/main/coffee_shop_sales): Contains the café store data analysis project in Excel format.
-
-[House Sales Dashboard](https://github.com/danielayunuen/Portfolio/blob/main/HouseSales): Includes files related to the house sales dashboard in Tableau.
-
-[Walmart Sales Data Cleaning](https://github.com/danielayunuen/Portfolio/tree/main/WalmartSalesDataCleaning): Contains the SQL code used to analyze Walmart store sales.
-
-[EDA Roller Coasters](https://github.com/danielayunuen/Portfolio/blob/main/RollerCoasterAnalysis/RollerCoasterDataAnalysis.ipynb): Includes the Python code used for roller coaster data analysis.
-
-[EDA Movies](https://github.com/danielayunuen/Portfolio/blob/main/MoviesCorrelationAnalysis/MoviesCorrelationAnalysis.ipynb): Contains the Python code used for movie data analysis.
+* [Coffee Shop Sales](https://github.com/danielayunuen/Portfolio/blob/main/coffee_shop_sales): Contains the café store data analysis project in Excel format.
+* [House Sales Dashboard](https://github.com/danielayunuen/Portfolio/blob/main/HouseSales): Includes files related to the house sales dashboard in Tableau.
+* [Walmart Sales Data Cleaning](https://github.com/danielayunuen/Portfolio/tree/main/WalmartSalesDataCleaning): Contains the SQL code used to analyze Walmart store sales.
+* [EDA Roller Coasters](https://github.com/danielayunuen/Portfolio/blob/main/RollerCoasterAnalysis/RollerCoasterDataAnalysis.ipynb): Includes the Python code used for roller coaster data analysis.
+* [EDA Movies](https://github.com/danielayunuen/Portfolio/blob/main/MoviesCorrelationAnalysis/MoviesCorrelationAnalysis.ipynb): Contains the Python code used for movie data analysis.
 
 Each directory contains additional files and relevant documentation for each project.
 
