@@ -101,4 +101,40 @@ Exploratory data analysis is undertaken with SQL queries to address the specifie
 7. Which time of the day do customers give most ratings? 
 8. Which time of the day do customers give most ratings per branch? 
 9. Which day fo the week has the best avg ratings? 
-10. Which day of the week has the best average ratings per branch? 
+10. Which day of the week has the best average ratings per branch?
+
+## MySQL Queries
+Find the complete code [here](https://github.com/danielayunuen/Portfolio/blob/main/WalmartSalesDataCleaning/WalmartSales.sql)
+
+```
+-- Create database
+CREATE DATABASE IF NOT EXISTS DataWalmart;
+
+-- Create table
+USE DataWalmart;
+CREATE TABLE IF NOT EXISTS sales (
+    invoice_id VARCHAR(30) NOT NULL PRIMARY KEY,
+    branch VARCHAR(5) NOT NULL,
+    city VARCHAR(30) NOT NULL,
+    customer_type VARCHAR(30) NOT NULL,
+    gender VARCHAR(30) NOT NULL,
+    product_line VARCHAR(100) NOT NULL,
+    unit_price DECIMAL(10, 2) NOT NULL,
+    quantity INT NOT NULL,
+    tax_pct FLOAT NOT NULL,
+    total DECIMAL(12, 4) NOT NULL,
+    date DATETIME NOT NULL,
+    time TIME NOT NULL,
+    payment VARCHAR(15) NOT NULL,
+    cogs DECIMAL(10, 2) NOT NULL,
+    gross_margin_pct FLOAT,
+    gross_income DECIMAL(12, 4),
+    rating FLOAT
+) ENGINE=InnoDB;
+
+-- ------------Data Cleaning ------------
+
+SELECT *
+FROM sales
+LIMIT 10;
+```
