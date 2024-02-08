@@ -65,8 +65,8 @@ Exploratory data analysis is undertaken with SQL queries to address the specifie
 
 ### Generic Question
 
-1. How many unique cities does the data have? 3.
-3. In which city is each branch? Branch A: Yangon, Branch B: Mandalay and Branch C: Naypyitaw.
+1. How many unique cities does the data have? 
+3. In which city is each branch?
 
 ### Product
 
