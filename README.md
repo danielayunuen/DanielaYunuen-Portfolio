@@ -35,7 +35,8 @@ In this project, I used Python to analyze data related to movies. I performed da
 
 Each directory contains additional files and relevant documentation for each project.
 
-Enjoy exploring these projects as much as I enjoyed working on them! If you have any questions or suggestions, feel free to contact me.
+**Enjoy exploring these projects as much as I enjoyed working on them! If you have any questions or suggestions, feel free to contact me.**
 
 E-mail: daniela.yunuengs@gmail.com
+
 LinkedIn: www.linkedin.com/in/danielayunuengs
